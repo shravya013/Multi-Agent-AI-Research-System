@@ -1,0 +1,20 @@
+# LLM integration with Groq
+langchain-groq
+
+# LangChain agents and tools
+langchain
+langchain-core
+langgraph
+
+# Web search using Tavily
+tavily-python
+
+# HTML parsing and web scraping
+beautifulsoup4
+requests
+
+# Environment variables
+python-dotenv
+
+# React agent / agent-based workflows
+langchain-classic
